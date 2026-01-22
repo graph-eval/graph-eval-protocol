@@ -1,2 +1,5 @@
-This repository will contain the source code accompanying the paper
-"Graph Evaluation Protocol for Node Embedding Methods".
+# graph-eval-protocol
+
+Source code accompanying the paper:
+
+**A Systematic Evaluation Protocol of Graph-Derived Signals for Tabular Machine Learning**
