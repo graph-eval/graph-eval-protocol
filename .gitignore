@@ -1,0 +1,33 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+
+# ======================
+# Runtime / experiment cache
+# ======================
+cache/
+.cache/
+.joblib/
+
+# ======================
+# IDEs / Editors
+# ======================
+.vscode/
+.idea/
+.spyderproject
+.spyproject
+
+# ======================
+# OS-specific
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# Backup / temporary files
+# ======================
+*.bak
+*~
